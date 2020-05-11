@@ -34,7 +34,7 @@ synapsesql-*suffix* |SQL server
 operationalsql-*suffix* |SQL server
 
 ## Connect to ADPDesktop
-You can ignore this task, if you are using the environment provided by **Cloudlabs**.In this section you are going to establish a Remote Desktop Connection to ADPDesktop virtual machine.
+You can ignore this task, if you are using the environment provided by **Cloudlabs**. In this section you are going to establish a Remote Desktop Connection to ADPDesktop virtual machine.
 
 **IMPORTANT**|
 -------------|
